@@ -2,7 +2,21 @@
 
 ###
 
-<img align="right" height="150" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-abe8-5230-bdf4-d56b09031062/raw?se=2025-04-03T10%3A55%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=cfd78649-37f7-57eb-829e-8fa3b38d7e28&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T04%3A57%3A36Z&ske=2025-04-04T04%3A57%3A36Z&sks=b&skv=2024-08-04&sig=thu6jjBDQoynk1XYopjP6Dikjf7cjvicZDzFoRs6nhc%3D"  />
+<p align="left">About me</p>
+
+###
+
+<p align="left">A second-year Bachelor's student in Software Engineering and Information Systems, passionate about technology and innovation. With a strong theoretical foundation and an insatiable curiosity, I am constantly seeking new knowledge and exciting challenges in the field of computer science.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-abe8-5230-bdf4-d56b09031062/raw?se=2025-04-03T10%3A55%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=cfd78649-37f7-57eb-829e-8fa3b38d7e28&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T04%3A57%3A36Z&ske=2025-04-04T04%3A57%3A36Z&sks=b&skv=2024-08-04&sig=thu6jjBDQoynk1XYopjP6Dikjf7cjvicZDzFoRs6nhc%3D"  />
+</div>
+
+###
+
+<p align="left">Skills</p>
 
 ###
 
@@ -33,6 +47,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
+
+###
+
+<p align="left">Let's Connect..!</p>
 
 ###
 
